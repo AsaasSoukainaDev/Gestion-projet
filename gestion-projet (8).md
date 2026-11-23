@@ -63,7 +63,7 @@ Pour chaque projet, je réponds à 3 questions :
 ### Daily Scrum
 - Les dernières tâches réalisées sont l'organisation et la rédaction du rapport technique, le rapport modulaire avec Node.js et la génération automatique du rapport consolidé.
 - La tâche sur laquelle je travaille est la préparation de la présentation du projet.
-- La prochaine étape est le [Product Backlog](http://192.168.1.251/admin/PkgRealisationTache/realisationTaches?filter.realisationTache.RealisationProjet.Affectation_projet_id=48&filter.realisationTache.tache_id=833).
+
 
 ---
 
